@@ -3,3 +3,6 @@
 Hello World!
 
 Today is an awesome day. Bright and sunny!
+
+by jay@bitofbyte.com
+
