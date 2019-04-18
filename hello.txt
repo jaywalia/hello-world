@@ -4,5 +4,9 @@ Hello World!
 
 Today is an awesome day. Bright and sunny!
 
+Added colors
+Added days
+Added months
+
 by jay@bitofbyte.com
 
