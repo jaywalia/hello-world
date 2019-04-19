@@ -9,6 +9,7 @@ Added days
 Added months
 
 Will these new changes reflect in clone.
+this change will be pulled (fetch+merge)
 
 by jay@bitofbyte.com
 
