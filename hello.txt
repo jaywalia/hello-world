@@ -8,5 +8,7 @@ Added colors
 Added days
 Added months
 
+Will these new changes reflect in clone.
+
 by jay@bitofbyte.com
 
